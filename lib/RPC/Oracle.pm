@@ -1,6 +1,6 @@
 package RPC::Oracle;
 
-our $VERSION = '1.1';
+our $VERSION = '1.2';
 
 sub new {
 	my ($self, $class, $dbh, $schema) = ({}, @_);
